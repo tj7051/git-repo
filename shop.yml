@@ -1,3 +1,4 @@
 data:
   test: shop-default
   SECRET_KEY: bbbbbbbbbbbb
+  KAFKA_IP: 172.18.0.101:9092
